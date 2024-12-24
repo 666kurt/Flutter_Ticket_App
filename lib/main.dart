@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ticket_app/resources/app_fonts_style.dart';
+import 'package:flutter_ticket_app/resources/app_theme.dart';
 import 'screen/ticket_screen.dart';
 
 void main() {

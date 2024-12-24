@@ -13,7 +13,7 @@ final ThemeData appTheme = ThemeData(
       fontWeight: FontWeight.w500,
     ),
     titleMedium: TextStyle(
-      color: Colors.black.withOpacity(0.35),
+      color: Colors.black.withValues(alpha: 0.35),
       fontSize: 18,
       fontWeight: FontWeight.w400,
     ),
